@@ -1,0 +1,6 @@
+*.pth
+*.pt
+__pycache__/
+data/
+train/
+feedback.json
